@@ -4,7 +4,7 @@ title: Support
 
 # fitHer Support
 
-Need help with fitHer? Email **hariompaswan08@gmail.com** and we'll reply as soon as we can.
+Need help with fitHer? Email **neosdevshelp@gmail.com** and we'll reply as soon as we can.
 
 ### Common questions
 

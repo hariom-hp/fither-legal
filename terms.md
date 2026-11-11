@@ -56,4 +56,4 @@ We may update these Terms. The date at the top will change and the new version w
 
 ### 11. Contact
 
-Email: hariompaswan08@gmail.com
+Email: neosdevshelp@gmail.com

@@ -65,4 +65,4 @@ If this policy changes, we will update the date at the top and the new version w
 
 ### 11. Contact
 
-Email: hariompaswan08@gmail.com
+Email: neosdevshelp@gmail.com
